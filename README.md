@@ -3,7 +3,7 @@ Tại sao cần tạo bộ nhớ ảo?
 webOS có thể gặp tình trạng thiếu RAM khi chạy nhiều ứng dụng hoặc xử lý các tác vụ nặng. Việc tạo bộ nhớ ảo (swap) sẽ sử dụng một phần dung lượng ổ cứng làm bộ nhớ tạm thời, giúp hệ thống hoạt động ổn định hơn.
 Hướng dẫn từng bước
  * Kết nối SSH vào webOS TV của bạn:
-   * Sử dụng phần mềm SSH trên máy tính (ví dụ: PuTTY trên Windows, Terminal trên macOS/Linux).
+   * Sử dụng phần mềm SSH trên máy tính (ví dụ: PuTTY trên Windows, Terminal trên macOS/Linux,WebOS Dev Manager/android.
    * Nhập địa chỉ IP của TV và cổng SSH (thường là 22).
    * Đăng nhập bằng tài khoản root.
  * Kiểm tra xem swap đã được tạo chưa:
